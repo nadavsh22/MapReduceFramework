@@ -1,0 +1,14 @@
+mfocshaner ,nadavsh22
+EX: 3
+
+FILES:
+Barrier.h 
+Barrier.cpp - a berrier object preventing from threads to progress, until all reach the barrier
+MapReduceFramework.h
+MapReduceFramework.cpp - the map reduce framework implementation
+Make
+
+REMARKS:
+We use the barrier object given. 
+
+
